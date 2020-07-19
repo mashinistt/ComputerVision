@@ -1,0 +1,1 @@
+# Compare neural networks for CIFAR10 task
